@@ -4,13 +4,6 @@ A KDE Plasma 6 desktop theme with an orange/black retro IBM aesthetic.
 
 ![Preview](SalamanderObsidian.png)
 
-## Features
-
-- Black panel with a 2px orange top-edge accent line
-- Orange bottom-bar active window indicator
-- No background tint on focused task icons
-- Dark color scheme with orange highlights throughout
-
 ## Installation
 
 ### Manual
