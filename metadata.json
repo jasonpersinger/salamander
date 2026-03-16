@@ -1,0 +1,12 @@
+{
+  "KPlugin": {
+    "Id": "salamander",
+    "Name": "Salamander",
+    "Description": "Hollerworks Pixel Salamander — orange/black retro IBM aesthetic",
+    "Authors": [{"Name": "hollerknight"}],
+    "Version": "1.0",
+    "Website": "",
+    "License": "CC-BY-SA 4.0"
+  },
+  "X-Plasma-API": "5.0"
+}
